@@ -1,17 +1,17 @@
 [
   {
     "t":"Smile Lite Tooth Brush Timer , #1 Tooth Bruush Timer",
-    "b":"INSTALL",
+    "b":"-",
     "u":"http://www.freejobalert.com/"
   },
   {
     "t":"All Jobs",
-    "b":"2",
+    "b":"-",
     "u":"http://www.freejobalert.com/"
   },
   {
     "t":"State Govt Jobs",
-    "b":"12",
+    "b":"-",
     "u":"http://www.freejobalert.com/karnataka-government-jobs/"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "t":"All Jobs",
-    "b":"NEW",
+    "b":"--",
     "u":"http://www.freejobalert.com/"
   },
 ]
