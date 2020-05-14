@@ -13,5 +13,15 @@
     "t":"State Govt Jobs",
     "b":"12",
     "u":"http://www.freejobalert.com/karnataka-government-jobs/"
-  }
+  },
+  {
+    "t":"All Jobs",
+    "b":"",
+    "u":"http://www.freejobalert.com/"
+  },
+  {
+    "t":"All Jobs",
+    "b":"NEW",
+    "u":"http://www.freejobalert.com/"
+  },
 ]
