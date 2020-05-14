@@ -16,7 +16,7 @@
   },
   {
     "t":"All Jobs",
-    "b":"",
+    "b":"-",
     "u":"http://www.freejobalert.com/"
   },
   {
