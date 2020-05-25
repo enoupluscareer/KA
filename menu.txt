@@ -2,7 +2,7 @@
   {
     "n":"Smile Lite Tooth Brush Timer , #1 Tooth Bruush Timer",
     "b":"-",
-    "u":"http://www.freejobalert.com/"
+    "u":"https://enoupluscareer.github.io/MENU/index.html"
   },
   {
     "n":"All Jobs",
@@ -25,3 +25,4 @@
     "u":"http://www.freejobalert.com/"
   },
 ]
+
