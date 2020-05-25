@@ -1,6 +1,6 @@
 [
   {
-    "n":"Smile Lite Tooth Brush Timer , #1 Tooth Bruush Timer",
+    "n":"Lite Tooth Brush Timer , #1 Tooth Bruush Timer",
     "b":"-",
     "u":"https://enoupluscareer.github.io/MENU/index.html"
   },
