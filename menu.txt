@@ -2,7 +2,7 @@
   {
     "n":"Lite Tooth Brush Timer , #1 Tooth Bruush Timer",
     "b":"-",
-    "u":"https://enoupluscareer.github.io/MENU/index.html"
+    "u":"http://enouplus.xyz/"
   },
   {
     "n":"All Jobs",
