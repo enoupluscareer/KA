@@ -1,26 +1,26 @@
 [
   {
-    "t":"Smile Lite Tooth Brush Timer , #1 Tooth Bruush Timer",
+    "n":"Smile Lite Tooth Brush Timer , #1 Tooth Bruush Timer",
     "b":"-",
     "u":"http://www.freejobalert.com/"
   },
   {
-    "t":"All Jobs",
+    "n":"All Jobs",
     "b":"-",
     "u":"http://www.freejobalert.com/"
   },
   {
-    "t":"State Govt Jobs",
+    "n":"State Govt Jobs",
     "b":"-",
     "u":"http://www.freejobalert.com/karnataka-government-jobs/"
   },
   {
-    "t":"All Jobs",
+    "n":"All Jobs",
     "b":"-",
     "u":"http://www.freejobalert.com/"
   },
   {
-    "t":"All Jobs",
+    "n":"All Jobs",
     "b":"--",
     "u":"http://www.freejobalert.com/"
   },
