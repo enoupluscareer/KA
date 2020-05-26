@@ -1,28 +1,13 @@
 [
   {
-    "n":"Jobs",
+    "n":"Latest Jobs",
     "b":"-",
-    "u":"https://enoupluscareer.github.io/MENU/"
+    "u":"https://enoupluscareer.github.io/pages/jobs.html"
   },
   {
-    "n":"All Jobs",
+    "n":"Latest Notifications",
     "b":"-",
-    "u":"http://www.freejobalert.com/"
-  },
-  {
-    "n":"State Govt Jobs",
-    "b":"-",
-    "u":"http://www.freejobalert.com/karnataka-government-jobs/"
-  },
-  {
-    "n":"All Jobs",
-    "b":"-",
-    "u":"http://www.freejobalert.com/"
-  },
-  {
-    "n":"All Jobs",
-    "b":"new",
-    "u":"http://www.freejobalert.com/"
-  },
+    "u":"https://enoupluscareer.github.io/pages/noti.html"
+  }
 ]
 
