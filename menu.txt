@@ -1,8 +1,8 @@
 [
   {
-    "n":"Latest Jobs",
+    "n":"Jobs",
     "b":"-",
-    "u":"http://enouplus.xyz/"
+    "u":"https://enoupluscareer.github.io/MENU/"
   },
   {
     "n":"All Jobs",
